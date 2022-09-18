@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+This is the first Flutter Project i made to practice Flutter and Dart language.
+I learned about Many widgets in this projects, you can clone this repository by using the command 
+
+"git clone https://github.com/nishantnz/first_app.git"
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
